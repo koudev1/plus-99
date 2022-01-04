@@ -1,0 +1,74 @@
+.col-md-6.col-12.my-lg-5.my-1.py-5.text-right {
+    text-align: left !important;
+}
+footer .row .col-md-3.col-6 .text-right.text-white,
+ul{
+    text-align: left !important;
+}
+footer .row .col-md-3.col-12 .text-right.text-white,
+ul{
+    text-align: left !important;
+}
+p, span, h1, h2, h3, h4, h5, h6, b {
+    direction: ltr !important;
+    text-align: left;
+}
+hr {
+    margin-left: 0 !important;
+}
+form .form-group.d-flex {
+    direction: rtl;
+}
+.col-md-7.col-12.text-right.mt-5 {
+    text-align: left !important;
+    direction: ltr !important;
+}
+.col-md-7.col-12.text-right.my-5 {
+    text-align: left !important;
+    direction: ltr !important;
+}
+div#filtering {
+    direction: rtl;
+}
+select.form-control {
+    direction: ltr !important;
+}
+.blog-box.text-right.m-auto {
+    direction: ltr !important;
+    text-align: left !important;
+} 
+.blog-box .m-2 .text-left.text-white {
+    text-align: right !important;
+}
+.sidebar {
+    direction: ltr !important;
+    text-align: left !important;
+}
+.col-md-9.col-12.text-right.my-5 {
+    text-align: left !important;
+}
+.col-md-3.col-12.sidebar-border.text-right.my-5 {
+    border-left: 1px solid #fcc400 !important;
+    border-right: 0 !important;
+}
+form.m-auto.pt-5.px-3.text-right {
+    text-align: left !important;
+    direction: ltr !important;
+}
+.client_dsdj {
+    float: right;
+    right: 16%;
+    left: auto !important;
+}
+
+.section__2 h2, h4 {
+    text-align: center;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.fixed-top {
+    direction: rtl;
+}
+
+div#collapsibleNavbar {
+    direction: ltr !important;
+}
